@@ -12,7 +12,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jack-pan-ai
-  - icon: envelope
+  - icon: envelope-open
     icon_pack: fab
     link: qilong.pan@kaust.edu.sa
     display:
