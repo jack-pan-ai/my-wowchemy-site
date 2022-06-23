@@ -12,12 +12,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jack-pan-ai
-  - icon: circle-envelope
+  - icon: envelope
     icon_pack: fab
     link: qilong.pan@kaust.edu.sa
     display:
       header: false
-  - icon: twitter-square
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Qilong07
   - icon: bilibili
@@ -32,7 +32,7 @@ social:
       header: false
     link: https://www.instagram.com/qilong1228/
     icon_pack: fab
-    icon: instagram-square
+    icon: instagram
 organizations:
   - name: KAUST
     url: https://www.kaust.edu.sa/en
