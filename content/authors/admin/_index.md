@@ -29,15 +29,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Statistics
+      institution: King Abdullah University of Science and Technology (KAUST)
+      year: 2023
+    - course: BSc in Statistics
+      institution: Wuhan University of Technology (WHUT)
+      year: 2021
+    - course: BA in English
+      institution: Wuhan Universityof Science and Technology
+      year: 2021
 email: ""
 superuser: true
 highlight_name: true
