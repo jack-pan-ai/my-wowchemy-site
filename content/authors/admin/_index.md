@@ -2,28 +2,37 @@
 title: Qilong Pan
 role: Statistics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Optimization
+  - Generative Models
+  - Statistical Inference
+  - MLcompiler
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/jack-pan-ai
+  - icon: circle-envelope
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: qilong.pan@kaust.edu.sa
+    display:
+      header: false
+  - icon: twitter-square
+    icon_pack: fab
+    link: https://twitter.com/Qilong07
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/330578883
+  - display:
+      header: false
+    icon_pack: fab
+    icon: zhihu
+    link: https://www.zhihu.com/people/pan-qi-long-99
+  - display:
+      header: false
+    link: https://www.instagram.com/qilong1228/
+    icon_pack: fab
+    icon: instagram-square
 organizations:
   - name: KAUST
     url: https://www.kaust.edu.sa/en
@@ -38,13 +47,14 @@ education:
     - course: BA in English
       institution: Huazhong Universityof Science and Technology (HUST)
       year: 2021
-email: ""
+email: qilong.pan@kaust.edu.sa
 superuser: true
 highlight_name: true
 ---
+My research interest lies in optimization in machine learning and its compilation, generative models, statistical inference (eg: statistical properties, causal inference). Currently, I have been developing my research on optimization of algorithms and deployment, specifically SGD and autoML complication since June 2022.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Additionally, I would be very happy to discuss with you the technical problems, especially when AI models land on real-world applications. If you are looking for any cooperation, feel free to reach me, at [qilong.pan@kaust.edu.sa](mailto:qilong.pan@kaust.edu.sa).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Update, June 19, 2022
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
