@@ -1,7 +1,7 @@
 ---
 title: Qilong Pan
 role: Statistics
-avatar_filename: null
+avatar_filename: background.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -36,7 +36,7 @@ education:
       institution: Wuhan University of Technology (WHUT)
       year: 2021
     - course: BA in English
-      institution: Wuhan Universityof Science and Technology
+      institution: Huazhong Universityof Science and Technology (HUST)
       year: 2021
 email: ""
 superuser: true
