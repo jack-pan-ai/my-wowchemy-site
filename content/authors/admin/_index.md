@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: KAUST
+    url: https://www.kaust.edu.sa/en
 education:
   courses:
     - course: MS in Statistics
