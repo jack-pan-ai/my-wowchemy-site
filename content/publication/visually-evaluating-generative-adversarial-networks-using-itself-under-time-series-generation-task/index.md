@@ -9,6 +9,7 @@ authors:
 publication: ""
 featured: false
 tags: []
+url_code: "https://github.com/jack-pan-ai/GaussianGANs"
 image:
   filename: featured
   focal_point: Smart
