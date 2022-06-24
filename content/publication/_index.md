@@ -9,6 +9,8 @@ cms_exclude: true
 #   4 = Citation
 view: 4
 type: "widget_page"  # Page type is a Widget Page
+weight: 140  # Position of the link in the navigation bar.
+
 
 # Optional header image (relative to `static/media/` folder).
 header:
