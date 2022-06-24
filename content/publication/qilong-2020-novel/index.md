@@ -1,5 +1,5 @@
 ---
-title: 'Novel Compositional Data's Grey Model for Structurally Forecasting Arctic Crude Oil Import'
+title: 'Novel Compositional Data Grey Model for Structurally Forecasting Arctic Crude Oil Import'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
