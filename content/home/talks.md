@@ -11,7 +11,8 @@ weight: 70
 
 title: 'Recent & Upcoming Talks'
 subtitle:
-
+# if you would like show this page in your homepage, then set as false
+active: false
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
