@@ -22,7 +22,7 @@ main:
 #   - name: Contact
 #     url: '#contact'
 #     weight: 60
-  - name: "Publications"  # Title of the link.
+  - name: "My Widget Page"  # Title of the link.
     url: "/publication"  # Widget Page folder name.
     weight: 140  # Position of the link in the navigation bar.
 
