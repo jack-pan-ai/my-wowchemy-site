@@ -5,7 +5,8 @@ widget: accomplishments
 
 # This file represents a page section.
 headless: true
-
+# if you would like show this page in your homepage, then set as false
+active: false
 # Order that this section appears on the page.
 weight: 50
 

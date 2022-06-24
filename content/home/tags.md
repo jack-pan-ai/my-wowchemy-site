@@ -11,7 +11,8 @@ weight: 120
 
 title: Popular Topics
 subtitle: ''
-
+# if you would like show this page in your homepage, then set as false
+active: false
 content:
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags

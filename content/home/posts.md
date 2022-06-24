@@ -8,7 +8,8 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 60
-
+# if you would like show this page in your homepage, then set as false
+active: false
 title: Recent Posts
 subtitle:
 

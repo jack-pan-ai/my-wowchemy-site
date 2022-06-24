@@ -11,7 +11,8 @@ weight: 80
 
 title: Featured Publications
 subtitle: ''
-
+# if you would like show this page in your homepage, then set as false
+active: false
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
