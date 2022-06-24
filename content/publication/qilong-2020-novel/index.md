@@ -10,7 +10,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-date: 2020
+date:  2020-11-03T20:04:12.510Z
 url_slides: ""
 title: Novel Compositional Data Grey Model for Structurally Forecasting Arctic
   Crude Oil Import
