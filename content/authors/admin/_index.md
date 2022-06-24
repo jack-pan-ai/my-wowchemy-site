@@ -52,4 +52,4 @@ Additionally, I would be very happy to discuss with you the technical problems, 
 
 Update, June 19, 2022
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/qilong_pan_s_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
