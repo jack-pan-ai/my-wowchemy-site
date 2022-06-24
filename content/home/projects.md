@@ -11,7 +11,8 @@ weight: 65
 
 title: Projects
 subtitle: ''
-
+# if you would like show this page in your homepage, then set as false
+active: false
 content:
   # Page type to display. E.g. project.
   page_type: project

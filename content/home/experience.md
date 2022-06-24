@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
+# if you would like show this page in your homepage, then set as false
+active: false
+
 title: Experience
 subtitle:
 
@@ -31,7 +34,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
