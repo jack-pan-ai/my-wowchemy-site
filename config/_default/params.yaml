@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Qilong Pan personal website for academic use'
+    twitter: 'Qilong07'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-D7KZ75V7ZL'
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification=nEqBFTrH60srEcMOIzgESdTZarT_wFLHQjOEmzaWKrk'
     baidu: ''
 
 # Site header
