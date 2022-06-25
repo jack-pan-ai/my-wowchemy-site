@@ -35,13 +35,13 @@ education:
   courses:
     - course: MS in Statistics
       institution: King Abdullah University of Science and Technology (KAUST)
-      year: 2023
-    - course: BSc in Statistics
-      institution: Wuhan University of Technology (WHUT)
-      year: 2021
-    - course: BA in English
+      year: 2021 Sep - 2022 Dec
+    - course: BA in English (Minor)
       institution: Huazhong Universityof Science and Technology (HUST)
-      year: 2021
+      year: 2018 - 2021
+    - course: BSc in Statistics (Major)
+      institution: Wuhan University of Technology (WHUT)
+      year: 2017 - 2021
 email: qilong.pan@kaust.edu.sa
 superuser: true
 highlight_name: true
