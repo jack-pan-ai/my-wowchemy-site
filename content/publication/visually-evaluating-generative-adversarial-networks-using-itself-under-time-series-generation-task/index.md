@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Admin
-publication: ""
+publication: ArXiv
 abstract: Visually evaluating the goodness of generated Multivariate Time Series
   (MTS) are difficult to implement, especially in the case that the generative
   model is Generative Adversarial Networks (GANs). We present a general
