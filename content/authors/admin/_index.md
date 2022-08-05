@@ -28,6 +28,11 @@ social:
     link: https://www.instagram.com/qilong1228/
     icon_pack: fab
     icon: instagram
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=_9r8L7UAAAAJ&hl=en&oi=ao
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: KAUST
     url: https://www.kaust.edu.sa/en
