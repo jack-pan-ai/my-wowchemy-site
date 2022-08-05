@@ -25,4 +25,5 @@ image:
   preview_only: false
 date: 2022-05-24T19:04:12.510Z
 url_code: https://github.com/jack-pan-ai/GaussianGANs
+url_pdf: https://arxiv.org/abs/2208.02649
 ---
