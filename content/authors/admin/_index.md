@@ -7,7 +7,6 @@ interests:
   - Optimization
   - Generative Models
   - Statistical Inference
-  - MLcompiler
 social:
   - icon: github
     icon_pack: fab
@@ -51,10 +50,10 @@ email: qilong.pan@kaust.edu.sa
 superuser: true
 highlight_name: true
 ---
-My research interest lies in optimization in machine learning and its compilation, generative models, statistical inference (eg: statistical properties, causal inference). Currently, I have been developing my research on optimization of algorithms and deployment, specifically SGD and autoML complication since June 2022.
+My research interest lies in optimization in machine learning, generative models, statistical inference (eg: statistical properties, causal inference). Currently, I have been developing my research on SGD and sampling in diffusion process since June 2022. 
 
-Additionally, I would be very happy to discuss with you the technical problems, especially when AI models land on real-world applications. If you are looking for any cooperation, feel free to reach me, at [qilong.pan@kaust.edu.sa](mailto:qilong.pan@kaust.edu.sa).
+Additionally, I would be thrilled to discuss with you the technical problems, especially when AI models land on real-world applications. If you are looking for any cooperation, feel free to reach me, at [qilong.pan AT kaust dot edu dot sa](mailto:qilong.pan@kaust.edu.sa). 
 
-Update, June 19, 2022
+Update, Oct 18, 2022
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
