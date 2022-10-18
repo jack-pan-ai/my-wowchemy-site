@@ -36,4 +36,9 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: jack-pan-ai/jack-pan-ai.github.io
+          publish_branch: gh-pages
+      
           publish_dir: ./public
