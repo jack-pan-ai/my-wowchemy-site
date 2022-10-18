@@ -52,7 +52,7 @@ highlight_name: true
 ---
 My research interest lies in optimization in machine learning, generative models, statistical inference (eg: statistical properties, causal inference). Currently, I have been developing my research on Stochastic Gradient Descent (SGD) and sampling in the diffusion process since June 2022.   
 
-Additionally, I would be thrilled to discuss with you the technical problems, especially when AI models land on real-world applications. If you are looking for any cooperation, feel free to reach me, at [qilong.pan AT kaust dot edu dot sa](mailto:qilong.pan@kaust.edu.sa). 
+Additionally, I would be thrilled to discuss with you the technical problems, especially when AI models land on real-world applications. If you are looking for any cooperation, feel free to reach me, at [qilong.pan AT kaust dot edu dot sa](mailto:qilong.pan@kaust.edu.sa).  
 
 Update, Oct 18, 2022
 
