@@ -1,5 +1,5 @@
 ---
-title: Qilong Pan
+title: Qilong Pan (潘启龙)
 role: Statistics
 avatar_filename: avatar.jpg
 bio: ""
